@@ -1,0 +1,7 @@
+February 16th, 2017
+
+Activities:
+- Plan implementaiton of improved queue feature.
+- Research the technical requirements of said implementation.
+
+------------------------------
